@@ -1,0 +1,7 @@
+classes= 10
+train  = train_bdd_list.txt
+valid = /home/mayank_s/codebase/cplus_plus/ai/darknet_AlexeyAB/data/val_bdd_list_modified.txt
+#valid  = test_bdd_list.txt
+names = data/bdd.names
+backup = backup
+eval = bdd
